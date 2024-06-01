@@ -1,2 +1,1 @@
-# calculator-
-This is my first task of internship at coding samurai in web development
+This is my 1 task of webdevelopment internship at codingsamurai

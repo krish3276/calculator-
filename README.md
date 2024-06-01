@@ -1,1 +1,1 @@
-This is my 1 task of webdevelopment internship at codingsamurai
+This is my 1 task of web development internship at codingsamurai
